@@ -1,0 +1,10 @@
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\bin\Debug\ADONetDemo.exe.config
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\bin\Debug\ADONetDemo.exe
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\bin\Debug\ADONetDemo.pdb
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.csprojAssemblyReference.cache
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.Form1.resources
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.Properties.Resources.resources
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.csproj.GenerateResource.cache
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.csproj.CoreCompileInputs.cache
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.exe
+C:\Users\vestel\source\repos\CsStudy\ADONetDemo\obj\Debug\ADONetDemo.pdb
